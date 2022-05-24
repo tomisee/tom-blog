@@ -22,5 +22,5 @@ I'm *anon*
 Uh privacy?
 Anyway here's a Star Wars picture
 
-Inline-style:
-![Star Wars 1977 movie poster]()
+
+![Star Wars 1977 movie poster](/home/tom/tom-blog/public/images/StarWarsPoster1977.jpg)
