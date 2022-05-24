@@ -22,5 +22,14 @@ I'm *anon*
 Uh privacy?
 Anyway here's a Star Wars picture
 
+Well it would be there if I could do it, guess that starts my todo list!
 
-![Star Wars 1977 movie poster](/home/tom/tom-blog/public/images/StarWarsPoster1977.jpg)
+#### Todo:
+1. Put image on first post
+2. Create more posts
+3. Practice MD and style
+4. Get good
+
+
+<!--- Inline-style:
+![1977 Star Wars movie poster](www.github.com/tomisee/tom-blog/public/images/StarWarsPoster1977.jpg) -->
