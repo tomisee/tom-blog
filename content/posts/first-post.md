@@ -13,14 +13,12 @@ Well anything I thought of..... like my plans for this blog for example!
 
 
 ### Who are you?
-Can't you read?
 
 I'm *anon*
 
 
-### What do you look like?
-Uh privacy?
-Anyway here's a Star Wars picture
+### Anyway...
+Here's a Star Wars picture
 
 Well it would be there if I could do it, guess that starts my todo list!
 
