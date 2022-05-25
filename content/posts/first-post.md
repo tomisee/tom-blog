@@ -29,5 +29,5 @@ Well it would be there if I could do it, guess that starts my todo list!
 4. Get good
 
 
-<!--- Inline-style:
-![1977 Star Wars movie poster](www.github.com/tomisee/tom-blog/public/images/StarWarsPoster1977.jpg) -->
+Inline-style:
+![1977 Star Wars movie poster](www.github.com/tomisee/tom-blog/public/images/StarWarsPoster1977.jpg)
