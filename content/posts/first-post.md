@@ -29,16 +29,22 @@ Well it would be there if I could do it, guess that starts my todo list!
 4. Get good
 
 
-Inline-style:
+
+## Top three Star Wars movies and why
+
+| Position | Movie | Why? |
+| --------- | :---------: | -----------------|
+| 1 | Episode IV | It simply is |
+| 2 | Episode III | Actually a good story of tragedy | 
+| 3 | Episode II | The fight on Geonosis and Count Dooku |
+
 ![1977 Star Wars movie poster](https://github.com/tomisee/tom-blog/blob/master/public/images/StarWarsPoster1977.jpg?raw=true)
 
 
-| Heading 1 | Heading 2 | Heading Optional |
-| --------- | :---------: | -----------------:|
-| Row 1 | This is centered | 123123123
-| Row 2 | Heading 1 is left aligned | 9188 
-| Row 3 | heading optional is right aligned | 451
+### Best quote in fiction?
 
-> Not all those who wander are lost
+> "and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us" - Gandalf, Fellowship of the Ring
 
-[![This is alt text](/home/tom/tom-blog/static/FireVideo.png)](https://www.youtube.com/watch?v=oYmqJl4MoNI)
+
+### To end, the video that keeps me inspired
+[![The single most inspiring video ever]()](https://www.youtube.com/watch?v=oYmqJl4MoNI)
